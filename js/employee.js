@@ -1,7 +1,7 @@
 $(function(){
     $.ajax({
       type : 'GET',
-      url : 'data/csvjson.json',
+      url : '/data/csvjson.json',
       async : false,
       beforeSend : function(){/*loading*/},
       dataType : 'json',
