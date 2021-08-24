@@ -1,0 +1,14 @@
+[
+    {
+      "id": "a",
+      "name": "Ole Kristian Dommerud",
+      "email": "okd@thommessen.no",
+      "phone": "123 33 212"
+    },
+    {
+      "id": "b",
+      "name":"Hugo Fuhlendorff",
+      "email": "hugo@neowit.io",
+      "phone": "904 07 298"
+    }
+  ]
